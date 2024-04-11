@@ -1,0 +1,10 @@
+{
+    "functions": {
+        "api/index.js": {
+            "handler": "server/index.handler"
+        }
+    },
+    "build": {
+        "command": "npm run build"
+    }
+}
