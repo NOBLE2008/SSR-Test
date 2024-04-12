@@ -1,12 +1,3 @@
 {
-    "functions": {
-        "api/index.js": {
-            "handler": "server/index.handler"
-        }
-    },
     "installCommand": "npm install",
-    "ignore": [
-        "node_modules",
-        ".env"
-    ]
 }
