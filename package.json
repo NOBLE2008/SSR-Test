@@ -21,11 +21,10 @@
   },
   "type": "module",
   "scripts": {
-    "start": "react-scripts start",
+    "start": "node server/index.cjs",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "ssr": "node server/index.cjs"
   },
   "eslintConfig": {
     "extends": [
